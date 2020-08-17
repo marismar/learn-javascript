@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
- Exercícios do curso de javascript, ofertado pela @Rocketseat 🚀
+ Exercícios do curso de javascript, ofertado pela Rocketseat 🚀
 </h4>
 
 <p align="center">
