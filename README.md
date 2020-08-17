@@ -10,7 +10,7 @@
   <a href="https://github.com/marismarcosta/starter-javascript/blob/master/LICENSE" target="_blank">
     <img alt="license: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" />
   </a>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/marismarcosta/travelling-salesman-problem?color=brightgreen" />
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/marismarcosta/starter-javascript?color=brightgreen" />
   <a href="https://github.com/marismarcosta">
     <img src="https://img.shields.io/badge/github-marismarcosta-7159C1?logo=GitHub"/>
   </a>
