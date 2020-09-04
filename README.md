@@ -1,5 +1,5 @@
 <h1 align="center">
-  starter-javascript
+  learn-javascript
 </h1>
 
 <h4 align="center">
